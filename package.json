@@ -35,7 +35,7 @@
     "lru-cache": "^4.0.1",
     "mkdirp": "0.5.0",
     "path-is-absolute": "^1.0.0",
-    "qtumcore-lib": "https://github.com/qtumproject/qtumcore-lib.git#master",
+    "qtumcore-lib": "https://github.com/palace22/qtumcore-lib.git#master",
     "qtumd-rpc": "https://github.com/qtumproject/qtumd-rpc.git#master",
     "semver": "^5.0.1",
     "socket.io": "^1.4.5",
